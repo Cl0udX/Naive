@@ -1,0 +1,6 @@
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.exe.config
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.exe
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.pdb
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\Naive.csproj.CoreCompileInputs.cache
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.exe
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.pdb

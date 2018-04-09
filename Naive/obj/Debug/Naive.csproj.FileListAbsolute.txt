@@ -1,0 +1,9 @@
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\Naive.csprojResolveAssemblyReference.cache
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\Naive.csproj.CoreCompileInputs.cache
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\Naive.exe.config
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\Naive.exe
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\Naive.pdb
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\Naive.Properties.Resources.resources
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\Naive.csproj.GenerateResource.Cache
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\Naive.exe
+c:\users\novio de maggi\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\Naive.pdb
